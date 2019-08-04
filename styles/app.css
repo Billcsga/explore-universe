@@ -1,0 +1,14 @@
+body{
+    margin-top: 70px;
+    
+}
+.media img {
+    max-width: 25%;
+    
+}
+.jumbotron{
+    color: azure;
+}
+.navbar-nav > li > a:hover{
+    background-color: #7fb4fa;
+}
